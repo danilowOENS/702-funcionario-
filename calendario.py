@@ -1,6 +1,6 @@
 
 
-dia = float (input("digite um número de 1 á 7: "))
+dia = float (input("digite um número de 1 á 7:"))
 
 if dia == 1:
     print("hoje é domingo")
